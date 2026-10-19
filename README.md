@@ -2,6 +2,11 @@
 
 A command-line study assistant built with Python and the Groq API. It helps students understand topics, summarize notes, and practice with AI-generated quizzes.
 
+## Application Preview
+
+![AI Study Assistant running in the terminal](screenshots/ai-study-assistant.png)
+
+
 ## Features
 
 - **Explain Topics:** Get clear explanations in simple English with examples.
