@@ -1,0 +1,24 @@
+
+# Protect API keys
+.env
+.env.*
+!.env.example
+
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter Notebook files
+.ipynb_checkpoints/
+
+# Quiz history (may contain personal results)
+quiz_history.json
+
+# VS Code settings
+.vscode/
